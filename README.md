@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is a high-performance **Retrieval-Augmented Generation (RAG)** microservice built for the Round 1 Technical Assignment. It allows users to upload PDF documents, which are then processed, indexed, and queried using semantic search to provide accurate answers based on the document's content.
+This project is a high-performance **Retrieval-Augmented Generation (RAG)** microservice. It allows users to upload PDF documents, which are then processed, indexed, and queried using semantic search to provide accurate answers based on the document's content.
 
 ### Key Features
 
@@ -112,4 +112,5 @@ curl.exe -X POST "http://localhost:8000/query" -H "Content-Type: application/jso
 ## 📜 License
 
 This project is licensed under the **MIT License**.
+
 
